@@ -128,7 +128,7 @@ An employee-level exploration page based on fields available in the model. Keep 
 
 The following images are stored in `05_Assets/dashboard_image/`:
 
-![Home](.Assets/dashboard_image/Home.png)
+![Home](./Assets/dashboard_image/Home.png)
 
 ![HR Overview](./Assets/dashboard_image/Overview.png)
 
